@@ -1,7 +1,11 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Владимир Корнеев](https://up.htmlacademy.ru/adaptive/20/user/1492285).
+<<<<<<< HEAD
 * Наставник: [Дмитрий Железцов].
+=======
+* Наставник: [Дмитрий Жезелцов].
+>>>>>>> 89951a55d2b02f90528da44fb2ba35ba417add5a
 
 ---
 
