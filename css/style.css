@@ -14,3 +14,637 @@
   font-weight: bold;
   font-style: normal;
 }
+
+/* Центровщик Mobile */
+.wrapper {
+}
+
+/* Меню Mobile */
+.top-menu {
+  padding-left: 277px;
+  padding-top: 17px;
+}
+
+.nav-top-menu {
+  width: 320px;
+  height: 56px;
+}
+
+/* Приветствующая Надпись Mobile */
+.header-middle {
+  width: 320px;
+  height: 389px;
+}
+
+.text-on-image {
+  margin-top: -320px;
+  margin-left: 19px;
+}
+
+.icon-city-of-sedona {
+  padding-left: 109px;
+  margin-top: -347px;
+}
+
+/* Рассказ о Седоне Mobile */
+.small-city-in-arizona {
+  width: 320px;
+  height: 221px;
+}
+
+.sedona-small {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 26px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  margin-left: 10px;
+}
+
+.five-facts {
+  font-family: PT Sans;
+  font-style: normal;
+  font-size: 15px;
+  line-height: 20px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  margin-left: 10px;
+}
+
+/* Настоящий Городок Mobile */
+.real-city {
+  width: 320px;
+  height: 211px;
+
+  background-color: #81B3D2;;
+}
+
+.real-city-txt {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 26px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #FFFFFF;
+
+  padding-top: 55px;
+  padding-left: 50px;
+}
+
+.number-one-txt {
+  font-family: PT Sans;
+  font-style: normal;
+  font-size: 15px;
+  line-height: 20px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #FFFFFF;
+
+  padding-left: 125px;
+}
+
+.number-two-txt {
+  font-family: PT Sans;
+  font-style: normal;
+  font-size: 13px;
+  line-height: 20px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #FFFFFF;
+
+  padding-top: 10px;
+}
+
+/* Фото Города Mobile */
+.photo-city {
+  width: 320px;
+  height: 260px;
+}
+
+/* Жилье Сувениры Еда Mobile */
+.terms {
+  width: 320px;
+  height: 416px;
+  margin-top: 40px;
+}
+
+.terms-bold {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 26px;
+
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  
+  margin-left: 70px;  
+}
+
+.terms-normal {
+  font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+margin-left: 70px;
+}
+
+.icon-house {
+margin-left: 21px;
+margin-top: -350px;
+}
+
+.icon-gift {
+margin-left: 25px;
+margin-top: 80px;
+}
+
+.icon-burger {
+margin-left: 18px;
+margin-top: 65px;
+}
+
+/* Мост Дьявола Mobile */
+.bridge-devil {
+  width: 320px;
+  height: 191px;
+
+  background-color: #81B3D2;
+}
+
+.bridge-devil-txt {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 26px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #FFFFFF;
+
+  padding-top: 39px;
+  padding-left: 30px;
+
+  margin-top: -40px;
+}
+
+.number-two-one-txt {
+  font-family: PT Sans;
+  font-style: normal;
+  font-size: 15px;
+  line-height: 20px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #FFFFFF;
+
+  padding-left: 115px;
+}
+
+.number-two-two-txt {
+  font-family: PT Sans;
+  font-style: normal;
+  font-size: 13px;
+  line-height: 20px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #FFFFFF;
+
+  padding-top: 10px;
+}
+
+/* Фото Мост Дьявола Mobile */
+.photo-bridge {
+  width: 320px;
+  height: 260px;
+}
+
+/* Плюсы Седоны №3 Пункта Mobile */
+.small-square {
+  width: 320px;
+  height: 167px;
+}
+
+.small-square-txt {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 26px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  padding-top: 39px;
+  padding-left: 55px;
+
+  margin-top: -20px;
+}
+
+.number-tree-one-txt {
+  font-family: PT Sans;
+  font-style: normal;
+  font-size: 15px;
+  line-height: 20px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  padding-left: 135px;
+}
+
+.number-tree-two-txt {
+  font-family: PT Sans;
+  font-style: normal;
+  font-size: 13px;
+  line-height: 20px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  padding-left: 40px;
+}
+
+.line-grey {
+  width: 280px;
+  height: 1px;
+
+  background: #D6D6D6;
+
+  margin-left: 20px;
+}
+
+/* Плюсы Седоны №4 Пункта Mobile */
+.beautiful-road {
+  width: 320px;
+  height: 167px;
+}
+
+.beautiful-road-txt {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 26px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  padding-top: 39px;
+  padding-left: 85px;
+
+  margin-top: -25px;
+}
+
+.number-four-one-txt {
+  font-family: PT Sans;
+  font-style: normal;
+  font-size: 15px;
+  line-height: 20px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  padding-left: 135px;
+}
+
+.number-four-two-txt {
+  font-family: PT Sans;
+  font-style: normal;
+  font-size: 13px;
+  line-height: 20px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  padding-left: 65px;
+}
+
+.line-grey {
+  width: 280px;
+  height: 1px;
+
+  background: #D6D6D6;
+
+  margin-left: 20px;
+}
+
+/* Плюсы Седоны №5 Пункта Mobile */
+.few-tourists {
+  width: 320px;
+  height: 167px;
+}
+
+.few-tourists-txt {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 26px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  padding-top: 39px;
+  padding-left: 85px;
+
+  margin-top: -25px;
+}
+
+.number-five-one-txt {
+  font-family: PT Sans;
+  font-style: normal;
+  font-size: 15px;
+  line-height: 20px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  padding-left: 135px;
+}
+
+.number-five-two-txt {
+  font-family: PT Sans;
+  font-style: normal;
+  font-size: 13px;
+  line-height: 20px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  padding-left: 35px;
+}
+
+/* Найти Гостиницу Mobile */ 
+.intrested {
+  width: 320px;
+  height: 287px;
+}
+
+.interted-txt {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 26px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  margin-left: 50px;
+  margin-top: 40px;
+}
+
+.filter-data-hotel-txt {
+  font-family: PT Sans;
+  font-style: normal;
+  font-size: 13px;
+  line-height: 20px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  padding-left: 20px;
+}
+
+.search-button {
+  width: 280px;
+  height: 58px;
+
+  margin-top: 27px;
+}
+
+.search-button-a {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 26px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+
+  background-color: #81B3D2;
+
+  color: #FFFFFF;
+
+  padding-top: 15px;
+  padding-bottom: 18px;
+  padding-left: 32px;
+  padding-right: 32px;
+
+  margin-left: 20px;
+}
+
+.search-button-a:hover {
+  background-color: #669EC0;
+}
+
+.search-button-a:active {
+  background-color: #5496BD;
+}
+
+/* Карта Mobile */ 
+.map-mobile {
+  width: 320px;
+  height: 350px;
+}
+
+/* Разработано Mobile */ 
+.directed-by-html-academy {
+  width: 320px;
+  height: 233px;
+
+  margin-top: 10px;
+}
+
+.visit-sedona {
+  padding-left: 76px;
+  padding-top: 29px;
+}
+
+.visit-sedona-p {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 21px;
+  line-height: 26px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+/* Социальные Сети Mobile */
+.social-media {
+  display: flex;
+}
+
+.twitter {
+  background-color: #81B3D2;
+
+  padding-top: 16px;
+  padding-left: 14px;
+  padding-bottom: 10px;
+  padding-right: 15px;
+
+  margin-left: 84px;
+
+  opacity: 0.9;
+}
+
+.facebook {
+  background-color: #81B3D2;
+
+  padding-top: 13px;
+  padding-left: 19px;
+  padding-bottom: 10px;
+  padding-right: 16px;
+
+  margin-left: 6px;
+
+  opacity: 0.9;
+}
+
+.youtube {
+  background-color: #81B3D2;
+
+  padding-top: 17px;
+  padding-left: 13px;
+  padding-bottom: 17px;
+  padding-right: 10px;
+
+  margin-left: 6px;
+
+  opacity: 0.9;
+}
+
+.twitter:hover {
+  background-color: #669EC0;
+}
+
+.facebook:hover {
+  background-color: #669EC0;
+}
+
+
+.youtube:hover {
+  background-color: #669EC0;
+}
+
+.twitter:active {
+  background-color: #5496BD;
+}
+
+.facebook:active {
+  background-color: #5496BD;
+}
+
+.youtube:active {
+  background-color: #5496BD;
+}
+
+/* Разработано Svg  Mobile */
+.direct {
+  margin-left: 80px;
+
+  margin-top: 45px;
+  padding-bottom: 26px;
+}
+
+.direct-p {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 26px;
+
+  display: flex;
+
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.html-academy {
+  margin-left: 197px;
+  margin-top: -71px;
+}
+
+
+
+
+
+
+
+
+
+
